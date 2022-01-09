@@ -42,3 +42,6 @@ Python software developer based in Kharkiv, Ukraine
 
 [Email](mailto:nv.astronaut@gmail.com) / [LinkedIn](https://www.linkedin.com/in/ladislaus-nychyk/)
 
+## **Technical experience**
+
+### **Techical support specialist** ### [SmartComp](https://smart-comp.net/) _(May 2019 – October 2019)_
