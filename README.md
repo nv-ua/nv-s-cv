@@ -1,41 +1,3 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/nv-ua/nv-s-cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nv-ua/nv-s-cv/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
-
 # **Vladyslav Nychyk**
 
 Python software developer based in Kharkiv, Ukraine
@@ -77,6 +39,14 @@ Hunting bugs and making bug reports on client or server side errors.
 
 ## Education 
 
-**Python Sololearn Course** [Sololearn certificate](https://www.sololearn.com/Certificate/1073-7032918/pdf/) _(2019)_ <br>
+**Python Sololearn course** [Sololearn certificate](https://www.sololearn.com/Certificate/1073-7032918/pdf/) _(2020)_ <br>
+Express Python course from basics to OOP fundamentals. <br>
 
+**Undergraduate education software developer** [Poltava Polytechnic College](https://drive.google.com/file/d/1YcjFjaf9J0Nml418o4gOk4_mtyHuESQqtg/view) _(2014 - 2017)_ <br>
+- Computer science fundamentals: design, development, documentation, algorhytms, data types, computer architecture
+- **_Technologies:_** OOP, SQL, HTML, CSS, Cisco networking, Linux. <br>
+
+**Bachelor's degree software developer** National Technical University «Kharkiv Polytechnic Institute» _(2021 - Now)_ <br>
+- Computer science: Modern programing, mobile apps and games
+- **_Technologies:_** OOP, web programing, computer graphics, databases.
 
