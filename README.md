@@ -12,7 +12,7 @@ Remote technical support for residents of Israel.
 - Providing support for PC and smart device users
 - Training customers in the use of Apple, Google and Microsoft products
 - Performing remote maintenance of several PCs simultaneously.
-- **_Technologies used:_** RFB, scripts.
+- **_Technologies used:_** VNC, scripts.
 <br><br>
 
 **CNC operator** maxmechanik s.r.o. _(October 2017 .. December 2021)_ <br>
