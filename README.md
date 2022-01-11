@@ -42,6 +42,12 @@ Python software developer based in Kharkiv, Ukraine
 
 [Email](mailto:nv.astronaut@gmail.com) / [LinkedIn](https://www.linkedin.com/in/ladislaus-nychyk/)
 
-## **Technical experience**
+## Technical experience 
 
-### **Techical support specialist** ### [SmartComp](https://smart-comp.net/) _(May 2019 – October 2019)_
+**Technical support specialist** [SmartComp](https://smart-comp.net/) _(May 2019 – October 2019)_ <br>
+Remote technical support for residents of Israel.
+
+- Provided support for PC and smart device users;
+- Trained customers in the use of Apple, Google and Microsoft products;
+- Performed remote maintenance of several PCs simultaneously.
+- **_Technologies used:_** RFB, scripts.
