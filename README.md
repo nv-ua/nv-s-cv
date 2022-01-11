@@ -47,7 +47,36 @@ Python software developer based in Kharkiv, Ukraine
 **Technical support specialist** [SmartComp](https://smart-comp.net/) _(May 2019 – October 2019)_ <br>
 Remote technical support for residents of Israel.
 
-- Providing support for PC and smart device users;
-- Training customers in the use of Apple, Google and Microsoft products;
+- Providing support for PC and smart device users
+- Training customers in the use of Apple, Google and Microsoft products
 - Performing remote maintenance of several PCs simultaneously.
 - **_Technologies used:_** RFB, scripts.
+<br><br>
+
+**CNC operator** maxmechanik s.r.o. _(October 2017 .. December 2021)_ <br>
+Precise parts CNC machining for automotive and heavy machinery.
+
+- Working at 2-3 machines simultaneously
+- Training for beginners
+- Interview + technical interview of applicants.
+<br><br>
+
+## Volunteering
+
+**Manual QA** «World of Warplanes», «Armored Warfare» _(2013 .. 2016)_ <br>
+Hunting bugs and making bug reports on client or server side errors.
+<br><br>
+
+## Languages
+
+**English**: A2 <br>
+**Czech**: A1 <br>
+**Russian**: C1 <br>
+**Ukrainian**: Native
+<br><br>
+
+## Education 
+
+**Python Sololearn Course** [Sololearn certificate](https://www.sololearn.com/Certificate/1073-7032918/pdf/) _(2019)_ <br>
+
+
