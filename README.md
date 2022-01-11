@@ -18,7 +18,7 @@ Remote technical support for residents of Israel.
 **CNC operator** maxmechanik s.r.o. _(October 2017 .. December 2021)_ <br>
 Precise parts CNC machining for automotive and heavy machinery.
 
-- Working at 2-3 machines simultaneously
+- working with CNC code 
 - Training for beginners
 - Interview + technical interview of applicants.
 <br><br>
