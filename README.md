@@ -47,7 +47,7 @@ Python software developer based in Kharkiv, Ukraine
 **Technical support specialist** [SmartComp](https://smart-comp.net/) _(May 2019 – October 2019)_ <br>
 Remote technical support for residents of Israel.
 
-- Provided support for PC and smart device users;
-- Trained customers in the use of Apple, Google and Microsoft products;
-- Performed remote maintenance of several PCs simultaneously.
+- Providing support for PC and smart device users;
+- Training customers in the use of Apple, Google and Microsoft products;
+- Performing remote maintenance of several PCs simultaneously.
 - **_Technologies used:_** RFB, scripts.
