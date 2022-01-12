@@ -21,6 +21,7 @@ Precise parts CNC machining for automotive and heavy machinery.
 - working with CNC code 
 - Training for beginners
 - Interview + technical interview of applicants.
+- **_Skills used:_** teamwork, multitasking, teamleading
 <br><br>
 
 ## Volunteering
