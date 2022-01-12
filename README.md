@@ -31,7 +31,7 @@ Hunting bugs and making bug reports on client or server side errors.
 
 ## Languages
 
-**English**: A2 <br>
+**English**: B1 <br>
 **Czech**: A1 <br>
 **Russian**: C1 <br>
 **Ukrainian**: Native
@@ -46,7 +46,7 @@ Express Python course from basics to OOP fundamentals. <br>
 - Computer science fundamentals: design, development, documentation, algorhytms, data types, computer architecture
 - **_Technologies:_** OOP, SQL, HTML, CSS, Cisco networking, Linux. <br>
 
-**Bachelor's degree software developer** National Technical University «Kharkiv Polytechnic Institute» _(2021 - Now)_ <br>
+**Bachelor's degree software developer** National Technical University «Kharkiv Polytechnic Institute» _(2021 - Now (second year)_ <br>
 - Computer science: Modern programing, mobile apps and games
 - **_Technologies:_** OOP, web programing, computer graphics, databases.
 
