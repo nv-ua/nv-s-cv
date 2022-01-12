@@ -26,7 +26,7 @@ Precise parts CNC machining for automotive and heavy machinery.
 ## Volunteering
 
 **Manual QA** «World of Warplanes», «Armored Warfare» _(2013 .. 2016)_ <br>
-Hunting bugs and making bug reports on client or server side errors.
+Hunting bugs and making bug reports on client and server side errors.
 <br><br>
 
 ## Languages
@@ -46,7 +46,7 @@ Express Python course from basics to OOP fundamentals. <br>
 - Computer science fundamentals: design, development, documentation, algorhytms, data types, computer architecture
 - **_Technologies:_** OOP, SQL, HTML, CSS, Cisco networking, Linux. <br>
 
-**Bachelor's degree software developer** National Technical University «Kharkiv Polytechnic Institute» _(2021 - Now (second year)_ <br>
+**Bachelor's degree software developer** National Technical University «Kharkiv Polytechnic Institute» _(2021 - Now (second year))_ <br>
 - Computer science: Modern programing, mobile apps and games
 - **_Technologies:_** OOP, web programing, computer graphics, databases.
 
