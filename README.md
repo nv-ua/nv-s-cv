@@ -45,7 +45,7 @@ Express Python course from basics to OOP fundamentals. <br>
 
 **Undergraduate education software developer** [Poltava Polytechnic College](https://drive.google.com/file/d/1YcjFjaf9J0Nml418o4gOk4_mtyHuESQqtg/view) _(2014 - 2017)_ <br>
 - Computer science fundamentals: design, development, documentation, algorhytms, data types, computer architecture
-- **_Technologies:_** OOP, SQL, HTML, CSS, Cisco networking, Linux. <br>
+- **_Technologies:_** OOP, SQL, HTML, CSS, TCP/IP, Linux. <br>
 
 **Bachelor's degree software developer** National Technical University «Kharkiv Polytechnic Institute» _(2021 - Now (second year))_ <br>
 - Computer science: Modern programing, mobile apps and games
