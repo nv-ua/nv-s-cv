@@ -4,6 +4,15 @@ Python software developer based in Kharkiv, Ukraine
 
 [Email](mailto:nv.astronaut@gmail.com) / [LinkedIn](https://www.linkedin.com/in/ladislaus-nychyk/)
 
+## Profile
+
+I am an aspiring python developer, with 1.5+ years of experience in various IT areas such as support and computer networking. Always continuing to improve my knowledge of languages and the IT industry.
+
+My hobbies: learning languages and computer hardware, good music and taking pictures of landscapes for which I'm willing to go to beautiful places with good company ;) Sports I prefer: badminton, shooting, swimming, mountain biking (and building bike trails in the woods too). 
+
+I appreciate the opportunity to find a friend in the team and to be part of a cohesive team.
+My strongest skills are more than 10 years of experience learning computer infrastructure, experience in work with commercial networks, persistence in problem solving, teamwork, softskills, open to new technologies.
+
 ## Technical experience 
 
 **Technical support specialist** [SmartComp](https://smart-comp.net/) _(May 2019 – October 2019)_ <br>
