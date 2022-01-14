@@ -42,7 +42,7 @@ Hunting bugs and making bug reports on client and server side errors.
 ## Languages
 
 **English**: B1 <br>
-**Czech**: A1 <br>
+**Czech**: A2 <br>
 **Polish**: Basic <br>
 **Russian**: C1 <br>
 **Ukrainian**: Native
