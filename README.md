@@ -8,7 +8,7 @@ Python software developer based in Kharkiv, Ukraine
 
 I am an aspiring python developer, with 1.5+ years of experience in various IT areas such as support and computer networking. Always continuing to improve my knowledge of languages and the IT industry.
 
-My hobbies: learning languages and computer hardware, good music and taking pictures of landscapes for which I'm willing to go to beautiful places with good company ;) Sports I prefer: badminton, shooting, swimming, mountain biking (and building bike trails in the woods too). 
+My hobbies: learning languages and computer hardware, good music and taking pictures of landscapes for which I'm willing to go to beautiful places with good company ;) Sports I prefer: badminton, swimming, mountain biking (and building bike trails in the woods too). 
 
 I appreciate the opportunity to find a friend in the team and to be part of a cohesive team.
 My strongest skills are more than 10 years of experience learning computer infrastructure, experience in work with commercial networks, persistence in problem solving, teamwork, softskills, open to new technologies.
@@ -50,14 +50,14 @@ Hunting bugs and making bug reports on client and server side errors.
 
 ## Education 
 
-**Python Sololearn course** [Sololearn certificate](https://www.sololearn.com/Certificate/1073-7032918/pdf/) _(2020)_ <br>
-Express Python course from basics to OOP fundamentals. <br>
-
 **Undergraduate education software developer** [Poltava Polytechnic College](https://drive.google.com/file/d/1YcjFjaf9J0Nml418o4gOk4_mtyHuESQqtg/view) _(2014 - 2017)_ <br>
 - Computer science fundamentals: design, development, documentation, algorhytms, data types, computer architecture
 - **_Technologies:_** OOP, SQL, HTML, CSS, TCP/IP, Linux. <br>
 
 **Bachelor's degree software developer** National Technical University «Kharkiv Polytechnic Institute» _(2021 - Now (second year))_ <br>
 - Computer science: Modern programing, mobile apps and games
-- **_Technologies:_** OOP, web programing, computer graphics, databases.
+- **_Technologies:_** OOP, web programing, computer graphics, databases. <br>
+
+**Python Sololearn course** [Sololearn certificate](https://www.sololearn.com/Certificate/1073-7032918/pdf/) _(2020)_ <br>
+Express Python course from basics to OOP fundamentals. <br>
 
