@@ -24,6 +24,15 @@ Remote technical support for residents of Israel.
 - **_Technologies used:_** VNC, scripts.
 <br><br>
 
+**ISP Network Engineer** [Ukrtlecom](https://ukrtelecom.ua/) _(July 2020 – March 2021)_ <br>
+Maintaining different types of Internet connections and network devices.
+
+- Made internet connections for individuals and businesses
+- Deployment of wired and wireless networks in businesses
+- Became the best in the team at configuring and troubleshooting client equipment
+- **_Technologies used:_** TCP/IP, network architecture.
+<br><br>
+
 **CNC operator** maxmechanik s.r.o. _(October 2017 .. December 2021)_ <br>
 Precise parts CNC machining for automotive and heavy machinery.
 
